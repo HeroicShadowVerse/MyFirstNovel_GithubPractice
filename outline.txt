@@ -1,7 +1,6 @@
 OUTLINE :- 
 
 
-
 I. Introduction
    A. Introduce the Boy and girl, highlighting their contrasting qualities
    B. Establish the Boy's deep affection and the girl's diligence in her studies
