@@ -1,1 +1,2 @@
 This is sample 2 of my local machine
+This is sample 2 of Remote file
